@@ -1,6 +1,6 @@
 ### Why are we here? to learn!
 
-Hi! I am <a href="https://rathod-sahaab.github.io/portfolio/">Abhay</a>!</h1> a full-stack developer, leaning more towards the backend side of things, systems design, networking and databases ♥️
+Hi! I am <a href="https://rathod-sahaab.github.io/">Abhay</a>!</h1> a full-stack developer, leaning more towards the backend side of things, systems design, networking and databases ♥️
 
 I go by the alias **rathod-sahaab** which is a refrence to the briliant movie [A Wednesday](https://www.imdb.com/title/tt1280558/)
 
